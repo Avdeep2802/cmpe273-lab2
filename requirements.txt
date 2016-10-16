@@ -1,0 +1,10 @@
+spyne
+urllib
+json
+re
+time
+collections
+spyne.server.wsgi
+spyne.protocol.http
+spyne.protocol.json
+spyne.decorator
